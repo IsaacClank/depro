@@ -1,2 +1,2 @@
 # depro
-Markdown-based project development suite
+Markdown-based project development & collaboration platform
